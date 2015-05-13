@@ -59,7 +59,15 @@ a {
   background-color: #FF706B;
   /*background-image: linear-gradient(120deg, #155799, #159957); */
   background-image: linear-gradient(120deg, #FF706B 0%, #7437EF 100%);
-  }
+}
+
+.site-footer{
+  color: #fff;
+  text-align: center;
+  background-color: #FF706B;
+  /*background-image: linear-gradient(120deg, #155799, #159957); */
+  background-image: linear-gradient(120deg, #7437EF 0%, #FF706B 100%);
+}
 
 @media screen and (min-width: 64em) {
   .page-header {
