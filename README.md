@@ -1,5 +1,9 @@
 http://zweig.co/jankyscroll/
 
+# jankyscroll.js
+
+## A Javascript scrolling plugin that doesn't need to exist.
+
 ## [<span class="octicon octicon-link"></span>](#welcome-to-github-pages)Welcome to **jankyscroll**
 
 Jankyscroll makes your website's UX undeniably worse. Let's talk about a couple ways you could delude yourself into thinking you want this.
@@ -16,23 +20,27 @@ If you really want to use **jankyscroll**, I guess I can't stop you. First, you 
 
     <script src="your/path/to/jankyscroll.js"></script>
 
-Then, call the function, probably at the bottom of your document.
+Then, call the function at the bottom of your document, if you're a good programmer who follows best practices. Which you're obviously not, because you're still here, reading this garbage.
 
     <script> jankyscroll(trigger_distance, jank_amount); </script>
 
-_trigger_distance_ sets the distance, in pixels, that one has to scroll before they get jank'd. _jank_amount_ sets an approximate range of how jank'd they'll be, also in pixels.
+_trigger_distance_ sets the distance, in pixels, that one has to scroll before they get jank'd. _jank_amount_ sets an approximate range of just how jank'd they'll be, also in pixels.
 
     <script> jankyscroll(400, 50); </script>
 
-For instance, the above code would mean that the user would be jank'd by about 50px for every 400px scrolled. Thankfully, that's all. If your _jank_amount_ is greater than your _trigger_distance_, that might cause some problems. Who cares.
+For instance, the above code would mean that the user would be jank'd around by about 50px for every 400px scrolled.
+
+Thankfully, that's all. If your _jank_amount_ is greater than your _trigger_distance_, that might cause some problems. Who cares.
 
 ## [<span class="octicon octicon-link"></span>](#support-or-contact)Support or Contact
 
 Having trouble with **jankyscroll**? Sorry, I don't really know what to do about that. It's sort of trouble to begin with, no? I'm sure you'll figure it out.
 
+If you'd like to contact me about **jankyscroll**: please, don't.
+
 <del>It doesn't work on mobile, because I have homework to do tonight. If someone wants to pull request that, I'll probably laugh at you for wasting your time on this bullshit, but then accept it. So, you know, go for it.</del>
 
-Nevermind, it totally does work on mobile. If someone was in the middle of working on this, I'm sorry, but that only makes it more funny.
+Nevermind, it totally does work on mobile. If someone was in the middle of working on this, I'm sorry, but this only makes your efforts more hilarious.
 
 # License
 Copyright (c) 2015 Benjamin Zweig
