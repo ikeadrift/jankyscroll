@@ -2,7 +2,7 @@ http://zweig.co/jankyscroll/
 
 # jankyscroll.js
 
-#### A Javascript scrolling plugin that doesn't need to exist.
+##### A Javascript scrolling plugin that doesn't need to exist.
 
 
 
