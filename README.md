@@ -9,7 +9,7 @@ http://zweig.co/jankyscroll/
 
 ## [<span class="octicon octicon-link"></span>](#welcome-to-github-pages)Welcome to **jankyscroll**
 
-Jankyscroll makes your website's UX undeniably worse. Let's talk about a couple ways you could delude yourself into thinking you want this.
+Jankyscroll makes your website's UX undeniably worse. Let's talk about a couple ways you could delude yourself into thinking that you want this.
 
 1.  First and foremost, **jankyscroll** is a tool for randomized, organic content discovery. With it, users can unintentionally (and forcibly!) discover parts of your website that they didn't know or care about, and probably still won't. Maybe that's something you want. I don't know.
 
