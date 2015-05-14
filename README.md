@@ -10,7 +10,7 @@ Jankyscroll makes your website's UX undeniably worse. Let's talk about a couple 
 
 ## [<span class="octicon octicon-link"></span>](#how-to)How to use **jankyscroll**
 
-If you really want to use jankyscroll, I guess I can'y stop you. First, you would include it in your page, like this. You should already know this stuff, probably.
+If you really want to use jankyscroll, I guess I can't stop you. First, you would include it in your page, like this. You should already know this stuff, probably.
 
     <script src="your/path/to/jankyscroll.js"></script>
 
