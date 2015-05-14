@@ -1,6 +1,32 @@
-# jankyscroll
-put a little jank in your scroll, or a lot. lots of jank. jank it up
+## [<span class="octicon octicon-link"></span>](#welcome-to-github-pages)Welcome to **jankyscroll**
 
+Jankyscroll makes your website's UX undeniably worse. Let's talk about a couple ways you might delude yourself into thinking you want that.
+
+1.  First and foremost, **jankyscroll** is a tool for randomized, organic content discovery. With it, users can unintentionally (and forcibly) discover parts of your website that they didn't know or care about, and probably still won't. Maybe that's something you want. I don't know.
+
+2.  In today's diverse device ecosystem, it can be a real challenge to support every availible platform. Solutions like [Modernizr](http://modernizr.com/) do their best to help you adapt to and support all manner of platforms, but **jankyscroll** elegantly resolves all issues by making sure that performance will be as terrible on a brand new, state-of-the-art machine as it on your dad's old Compaq that caught fire that one time.
+
+3.  For too long, content providers have allowed users to scroll wherever they please, whenever they please. With **jankyscroll**, you can assert your rightful dominant place as a Provider of Value, and stop those pesky users from scrolling so freely. Control the Scroll, with **jankyscroll**. It sucks.
+
+## [<span class="octicon octicon-link"></span>](#how-to)How to use **jankyscroll**
+
+If you really want to use jankyscroll, I guess I can'y stop you. First, you would include it in your page, like this. You should already know this stuff, probably.
+
+    <script src="your/path/to/jankyscroll.js"></script>
+
+Then, call the function, probably at the bottom of your document.
+
+    <script jankyscroll(trigger_distance, jank_amount)></script>
+
+_trigger_distance_ sets the distance, in pixels, that one has to scroll before the get jank'd. _jank_amount_ sets an approximate range of how jank'd they'll be, also in pixels.
+
+    <script jankyscroll(400, 50)></script>
+
+For instance, the above code would mean that the user would be jank'd by about 50px for every 400px scrolled. Thankfully, that's all. If your _jank_amount_ is greater than your _trigger_distance_, that might cause some problems. Who cares.
+
+## [<span class="octicon octicon-link"></span>](#support-or-contact)Support or Contact
+
+Having trouble with **jankyscroll**? Sorry, I don't really know what to do about that. It's sort of trouble to begin with, no? I'm sure you'll figure it out.
 # License
 Copyright (c) 2015 Benjamin Zweig
 
