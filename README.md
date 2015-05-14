@@ -23,7 +23,7 @@ If you really want to use **jankyscroll**, I guess I can't stop you. First, you 
 
     <script src="your/path/to/jankyscroll.js"></script>
 
-Then, call the function at the bottom of your document, if you're a good programmer who follows best practices. Which you're obviously not, because you're still here, reading this garbage.
+Then, initialize the plugin at the bottom of your document, if you're a good programmer who follows best practices. Which you're obviously not, because you're still here, reading this garbage.
 
     <script> jankyscroll(trigger_distance, jank_amount); </script>
 
@@ -44,6 +44,12 @@ If you'd like to contact me about **jankyscroll**: please, don't.
 <del>It doesn't work on mobile, because I have homework to do tonight. If someone wants to pull request that, I'll probably laugh at you for wasting your time on this bullshit, but then accept it. So, you know, go for it.</del>
 
 Nevermind, it totally does work on mobile. If someone was in the middle of working on this, I'm sorry, but this only makes your efforts more hilarious.
+
+## [<span class="octicon octicon-link"></span>](#acknowledgements)Acknowledgements
+
+I snatched the starting point for this venture from The Onion's most excellent [fartscroll.js](http://theonion.github.io/fartscroll.js/), which I whole-heartedly [encourage](http://zweig.co/jankyscroll/example.html) you use alongside **jankyscroll**.
+
+I'd like to publically shame James Adam Buckland for encouraging this.
 
 # License
 Copyright (c) 2015 Benjamin Zweig
