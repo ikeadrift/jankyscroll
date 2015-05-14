@@ -1,3 +1,5 @@
+http://zweig.co/jankyscroll/
+
 ## [<span class="octicon octicon-link"></span>](#welcome-to-github-pages)Welcome to **jankyscroll**
 
 Jankyscroll makes your website's UX undeniably worse. Let's talk about a couple ways you could delude yourself into thinking you want this.
