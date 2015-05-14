@@ -28,8 +28,9 @@ For instance, the above code would mean that the user would be jank'd by about 5
 
 Having trouble with **jankyscroll**? Sorry, I don't really know what to do about that. It's sort of trouble to begin with, no? I'm sure you'll figure it out.
 
-<del>It doesn't work on mobile, because I have homework to do tonight. If someone wants to pull request that, I'll probably laugh at you for wasting your time on this bullshit, but then accept it. So, you know, go for it.</del> Nevermind, it totally does. If someone was in the middle of working on this, I'm sorry, but that only makes it more funny.
+<del>It doesn't work on mobile, because I have homework to do tonight. If someone wants to pull request that, I'll probably laugh at you for wasting your time on this bullshit, but then accept it. So, you know, go for it.</del>
 
+Nevermind, it totally does work on mobile. If someone was in the middle of working on this, I'm sorry, but that only makes it more funny.
 
 # License
 Copyright (c) 2015 Benjamin Zweig
