@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <script>var jankyscroll=function(){"use strict";function n(){var n=Math.round(Math.random());return 1==n?-1:1}function o(){return(5*Math.random()+8)/10}return function(r,t){function i(){a&&clearTimeout(a),a=setTimeout(function(){window.scrollBy(0,t*o()*n())},400)}r=r||400,t=t||20;var e,a,c=function(){var i=Math.floor(window.scrollY/r);e!==i&&(window.scrollBy(0,t*o()*n()),e=i)};window.addEventListener("scroll",c,!1),window.addEventListener("resize",i,!1)}}();jankyscroll(180,80);</script>
+    <meta charset="UTF-8">
+    <title>Jankyscroll by benzweig</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">jankyscroll.js</h1>
+      <h2 class="project-tagline">put a little jank in your scroll, or a lot. <br/> lots of jank. jank it up</h2>
+      <a href="https://github.com/benzweig/jankyscroll" class="btn">scroll with us on GitHub</a>
+      <a href="https://github.com/benzweig/jankyscroll/zipball/master" class="btn">scroll through the .zip</a>
+      <a href="https://github.com/benzweig/jankyscroll/tarball/master" class="btn">or the .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h2>
+<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to <u>jankyscroll</u>.</h2>
+
+<p>Let's say you have a poll. Your customers are idiots, and sometimes they fall into the hole of mistaking a part of the poll for the whole, not knowing how to scroll to the bottom of the poll. But you know in your soul that the goal of the poll won't be stole by a troll! </p>
+<p>Take control of the scroll with <u>jankyscroll</u>! Don't just let them stroll through the poll - control the scroll. Don't let the scroll take its toll.</p>
+
+<pre><code>&lt;script src="jankyscroll.js"&gt;&lt;/script&gt;
+</code></pre>
+
+<p>The team that built <u>jankyscroll</u> understands the sole goal of the poll: to cajole a soul to patrol the whole poll. But if the poll to be scrolled isn't whole, control of the stroll's in a hole! To patrol the goal of the poll, we extole the role of <u>jankyscroll</u>.</p>
+
+<p>It's important to indicate to users that there's more content on the page than meets the eye. That's why <u>jankyscroll</u> stutters randomly. It's on purpose. Shut up.</p>
+
+<h2>
+<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support or Contact</h2>
+
+<p>Having trouble with <u>jankyscroll</u>? We don't give a shit. Don't contact us. We're sure you'll eventually sort it out.</p>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/benzweig/jankyscroll">jankyscroll</a> is a shiny little turd rolled up by the dung beetle that is <a href="https://github.com/benzweig">benzweig</a>.</span>
+      </footer>
+
+    </section>
+
+
+  </body>
+</html>
