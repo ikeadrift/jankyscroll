@@ -1,6 +1,6 @@
 ## [<span class="octicon octicon-link"></span>](#welcome-to-github-pages)Welcome to **jankyscroll**
 
-Jankyscroll makes your website's UX undeniably worse. Let's talk about a couple ways you might delude yourself into thinking you want that.
+Jankyscroll makes your website's UX undeniably worse. Let's talk about a couple ways you could delude yourself into thinking you want this.
 
 1.  First and foremost, **jankyscroll** is a tool for randomized, organic content discovery. With it, users can unintentionally (and forcibly!) discover parts of your website that they didn't know or care about, and probably still won't. Maybe that's something you want. I don't know.
 
@@ -28,7 +28,7 @@ For instance, the above code would mean that the user would be jank'd by about 5
 
 Having trouble with **jankyscroll**? Sorry, I don't really know what to do about that. It's sort of trouble to begin with, no? I'm sure you'll figure it out.
 
-It doesn't work on mobile, because I have homework to do tonight. If someone wants to pull request that, I'll probably laugh at you for wasting your time on this bullshit, but then accept it. So, you know, go for it.
+<del>It doesn't work on mobile, because I have homework to do tonight. If someone wants to pull request that, I'll probably laugh at you for wasting your time on this bullshit, but then accept it. So, you know, go for it.</del> Nevermind, it totally does. If someone was in the middle of working on this, I'm sorry, but that only makes it more funny.
 
 
 # License
