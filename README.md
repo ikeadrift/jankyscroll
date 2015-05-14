@@ -18,11 +18,11 @@ If you really want to use **jankyscroll**, I guess I can't stop you. First, you 
 
 Then, call the function, probably at the bottom of your document.
 
-    <script jankyscroll(trigger_distance, jank_amount);></script>
+    <script> jankyscroll(trigger_distance, jank_amount); </script>
 
 _trigger_distance_ sets the distance, in pixels, that one has to scroll before they get jank'd. _jank_amount_ sets an approximate range of how jank'd they'll be, also in pixels.
 
-    <script jankyscroll(400, 50);></script>
+    <script> jankyscroll(400, 50); </script>
 
 For instance, the above code would mean that the user would be jank'd by about 50px for every 400px scrolled. Thankfully, that's all. If your _jank_amount_ is greater than your _trigger_distance_, that might cause some problems. Who cares.
 
