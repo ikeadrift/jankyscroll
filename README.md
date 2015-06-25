@@ -1,6 +1,6 @@
 http://zweig.co/jankyscroll/
 
-# jankyscroll.js
+# jankyscroll.js 2.0
 
 ##### A Javascript scrolling plugin that doesn't need to exist.
 
