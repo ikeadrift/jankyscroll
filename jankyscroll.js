@@ -3,17 +3,11 @@
 var jankyscroll = (function() {
     'use strict';
     function coinflip () {
-        var coin = Math.round(Math.random());
-        //flip it, baby
-        if (coin == 1) {
-            return (-1);
-        } else {
-            return (1);
-        }
+        return ((Math.random() * 2)|0) * 2 - 1;
     }
 
-    function intErval(){
-        return (Math.random() * (12 - 8 + 1) + 8)/10;
+    function intErval() {
+        return (Math.random() * (12 - 8 + 1) + 8) / 10;
     }
   
     return function(trigger_distance, jank_range) {
@@ -32,9 +26,8 @@ var jankyscroll = (function() {
         var timer;
 
         function resizeJank() {
-            if (timer) {
+            if (timer)
                 clearTimeout(timer);
-            }
             timer = setTimeout(function() {
                window.scrollBy(0, (jank_range * intErval() * coinflip()));
             }, 400);
