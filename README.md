@@ -35,7 +35,7 @@ For instance, the above code would mean that the user would be jank'd around by 
 
 Thankfully, that's all. If your _jank_amount_ is greater than your _trigger_distance_, that might cause some problems. Who cares.
 
-### [<span class="octicon octicon-link"></span>]jankyscroll **2.0**
+### [<span class="octicon octicon-link"></span>](#jankyscroll-20)jankyscroll **2.0**
 
 In order to bring users the most emergent janking experience, we've upgraded jankyscroll to version 2.0. This means we've added a third argument, `jank_method`, specifying the specific flavor of janking. There are three provided options:
 
