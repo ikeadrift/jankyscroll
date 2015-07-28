@@ -45,10 +45,10 @@ In order to bring users the most emergent janking experience, we've upgraded jan
 
     jankyscroll(400, 250, "hardcore");
 
-There is also a forth option, supplying a custom jank function. This function takes a integer value, `jank_amount`. This allows for _incredible_ jank extensibility. For example, sideways janking:
+There is also a fourth option, supplying a custom jank function. This function takes a integer value, `jank_amount`. This allows for _incredible_ jank extensibility. For example, sideways janking:
 
     jankyscroll(320, 160, function(jank_amount) {
-        window.scrollBy(val, 0); // x, y
+        window.scrollBy(jank_amount, 0); // x, y
     });
 
 ## [<span class="octicon octicon-link"></span>](#support-or-contact)Support or Contact
