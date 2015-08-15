@@ -16,6 +16,12 @@ a {
   a:hover {
     text-decoration: underline; }
 
+.star {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
