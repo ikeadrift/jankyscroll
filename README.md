@@ -1,4 +1,4 @@
-# jankyscroll.js 2.0
+# jankyscroll 2.0
 
 ##### A Javascript scrolling plugin that doesn't need to exist.
 
