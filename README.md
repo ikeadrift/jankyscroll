@@ -35,15 +35,15 @@ Thankfully, that's all. If your _jank_amount_ is greater than your _trigger_dist
 
 ### [<span class="octicon octicon-link"></span>](#jankyscroll-20)jankyscroll **2.0**
 
-In order to bring users the most emergent janking experience, we've upgraded jankyscroll to version 2.0. This means we've added a third argument, `jank_method`, specifying the specific flavor of janking. There are three provided options:
+In order to surface powerful emergent janking patterns, we've made changes in the version jump to jankyscroll 2.0. We've added a third argument, `jank_method`, specifying a specific method of janking. Here are three provided options:
 
-* `"scroll"` (default) - Are you satisfied with the old jank? This is just that, the jank you know and love.
-* `"offset"` - This is janking brought to the modern world. Instead of using obsolete shit to do shit, we're using CSS3, the best CSS since CSS2.
-* `"hardcore"` - This option is for _hardcore_ jank junkies. Using advanced CSS3 technology, this will jank each element of the page separately.
+* `"scroll"` (default) - The classic flavor of jank "enjoyed" by web users all around the globe.
+* `"offset"` - I don't actually remember what this one does, and I'm not about to go find out.
+* `"hardcore"` - This option is for _hardcore_ jank junkies only. Using state of the art CSS3 technology, this will jank each element of the page separately.
 
     jankyscroll(400, 250, "hardcore");
 
-There is also a fourth option, supplying a custom jank function. This function takes a integer value, `jank_amount`. This allows for _incredible_ jank extensibility. For example, sideways janking:
+If you wish, you can supply a custom jank function. Your function should take an integer value called `jank_amount`. Creating your own jank function allows for _incredible_ extensibility. Here's sideways janking:
 
     jankyscroll(320, 160, function(jank_amount) {
         window.scrollBy(jank_amount, 0); // x, y
