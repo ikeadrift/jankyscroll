@@ -39,7 +39,7 @@ In order to surface powerful emergent janking patterns, we've made changes in th
 
 * `"scroll"` (default) - The classic flavor of jank "enjoyed" by web users all around the globe.
 * `"offset"` - I don't actually remember what this one does, and I'm not about to go find out.
-* `"hardcore"` - This option is for _hardcore_ jank junkies only. Using state of the art CSS3 technology, this will jank each element of the page separately.
+* `"hardcore"` - This option is for _hardcore_ jank junkies only. Be warned, this will jank each element separately.
 
     jankyscroll(400, 250, "hardcore");
 
