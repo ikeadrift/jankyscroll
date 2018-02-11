@@ -55,7 +55,7 @@ Having trouble with **jankyscroll**? Sorry, I don't really know what to do about
 
 If you'd like to contact me about **jankyscroll**: please, don't.
 
-<del>It doesn't work on mobile, because I have homework to do tonight. If someone wants to pull request that, I'll probably laugh at you for wasting your time on this bullshit, but then accept it. So, you know, go for it.</del>
+<del>It doesn't work on mobile. If someone wants to submit a PR to make that happen, I'll probably laugh at you for wasting your time on this bullshit and then accept it. So, you know, go for it.</del>
 
 Nevermind, it totally does work on mobile. Please don't bamboozle me like this.
 
