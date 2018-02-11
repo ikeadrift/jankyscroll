@@ -38,7 +38,7 @@ Thankfully, that's all. If your `jank_amount` is greater than your `trigger_dist
 In order to surface _powerful emergent janking patterns_, we've made some changes in our version jump to jankyscroll 2.0. We've added a third argument, `jank_method`, specifying a specific method of janking. Here are three provided stock options:
 
 * `"scroll"` (default) - The classic flavor of jank "enjoyed" by web users all around the globe.
-* `"offset"` - I don't actually remember what this one does. Sorry.
+* `"offset"` - Sorry, I don't remember what this one does.
 * `"hardcore"` - This option is for _hardcore_ jank junkies only. Be warned, this will jank each element separately.
 
 Exmaple useage:
