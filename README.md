@@ -21,7 +21,7 @@ If you really want to use **jankyscroll**, I guess I can't stop you. First, you 
 
     <script src="your/path/to/jankyscroll.js"></script>
 
-Then, initialize the plugin at the bottom of your document, if you're a good programmer who follows best practices. Which you're obviously not, _because you're here_.
+Then, initialize the plugin at the bottom of your document, if you're a good programmer who follows best practices. Which you're obviously not, given you're here.
 
     jankyscroll(trigger_distance, jank_amount);
 
