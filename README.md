@@ -11,7 +11,7 @@ Jankyscroll makes your website's UX undeniably worse. Let's talk about a couple 
 
 1.  First and foremost, **jankyscroll** is a tool for randomized, organic content discovery. Users can unintentionally (and forcibly!) discover parts of your website they didn't know or care about, and probably still won't. Maybe that's something you want. I don't know.
 
-2.  In today's diverse ecosystem, it can be a real challenge to support every available platform. Solutions like [Modernizr](http://modernizr.com/) do their best to help you adapt to all manner of devices, but **jankyscroll** elegantly resolves all issues. Performance will be just as terrible on a brand new, state-of-the-art machine as it was on your dad's old Compaq that caught fire that one time.
+2.  In today's diverse ecosystem, it can be a real challenge to support every available platform. Solutions like [Modernizr](http://modernizr.com/) do their best to help you adapt to all manner of devices, but **jankyscroll** elegantly handles everything for you: performance will be just as terrible on a brand new, state-of-the-art machine as it was on your dad's old Compaq that caught fire.
 
 3.  For too long, content providers have allowed ungrateful _users_ to scroll wherever they please, whenever they please. With **jankyscroll**, you can assert your rightful dominance as a Provider of Value, and stop those thankless users from scrolling so freely. Control the Scroll, with **jankyscroll**. It sucks.
 
