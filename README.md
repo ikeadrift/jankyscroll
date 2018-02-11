@@ -57,7 +57,7 @@ If you'd like to contact me about **jankyscroll**: please, don't.
 
 <del>It doesn't work on mobile, because I have homework to do tonight. If someone wants to pull request that, I'll probably laugh at you for wasting your time on this bullshit, but then accept it. So, you know, go for it.</del>
 
-Nevermind, it totally does work on mobile. If someone was in the middle of working on this, I'm sorry, but it's not like what you were doing mattered to begin with, right?
+Nevermind, it totally does work on mobile. Please don't bamboozle me like this.
 
 ## [<span class="octicon octicon-link"></span>](#acknowledgements)Acknowledgements
 
