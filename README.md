@@ -25,13 +25,13 @@ Then, initialize the plugin at the bottom of your document, if you're a good pro
 
     jankyscroll(trigger_distance, jank_amount);
 
-_trigger_distance_ sets the distance, in pixels, that one has to scroll before they get jank'd. _jank_amount_ sets an approximate range of just how jank'd they'll get, also in pixels.
+`trigger_distance` sets the distance, in pixels, that one has to scroll before they get jank'd. `jank_amount` sets an approximate range of just how jank'd they'll get, also in pixels.
 
     jankyscroll(400, 50);
 
 For instance, the above code would mean that the user would be jank'd around by about 50px for every 400px scrolled.
 
-Thankfully, that's all. If your _jank_amount_ is greater than your _trigger_distance_, that might cause some problems. Who cares.
+Thankfully, that's all. If your `jank_amount` is greater than your `trigger_distance`, that might cause some problems. Who cares.
 
 ### [<span class="octicon octicon-link"></span>](#jankyscroll-20)jankyscroll **2.0**
 
