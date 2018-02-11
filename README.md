@@ -17,15 +17,15 @@ Jankyscroll makes your website's UX undeniably worse. Let's talk about a couple 
 
 ## [<span class="octicon octicon-link"></span>](#how-to)How to use **jankyscroll**
 
-If you really want to use **jankyscroll**, I guess I can't stop you. First, you would include it in your page, like this. You should already know this stuff, probably.
+If you really want to use **jankyscroll**, I guess I can't stop you. First, you would include it in your page, like this. You should probably already know this stuff.
 
     <script src="your/path/to/jankyscroll.js"></script>
 
-Then, initialize the plugin at the bottom of your document, if you're a good programmer who follows best practices. Which you're obviously not, because you're still here, reading this garbage.
+Then, initialize the plugin at the bottom of your document, if you're a good programmer who follows best practices. Which you're obviously not, _because you're here_.
 
     jankyscroll(trigger_distance, jank_amount);
 
-_trigger_distance_ sets the distance, in pixels, that one has to scroll before they get jank'd. _jank_amount_ sets an approximate range of just how jank'd they'll be, also in pixels.
+_trigger_distance_ sets the distance, in pixels, that one has to scroll before they get jank'd. _jank_amount_ sets an approximate range of just how jank'd they'll get, also in pixels.
 
     jankyscroll(400, 50);
 
@@ -35,11 +35,13 @@ Thankfully, that's all. If your _jank_amount_ is greater than your _trigger_dist
 
 ### [<span class="octicon octicon-link"></span>](#jankyscroll-20)jankyscroll **2.0**
 
-In order to surface powerful emergent janking patterns, we've made changes in the version jump to jankyscroll 2.0. We've added a third argument, `jank_method`, specifying a specific method of janking. Here are three provided options:
+In order to surface _powerful emergent janking patterns_, we've made some changes in our version jump to jankyscroll 2.0. We've added a third argument, `jank_method`, specifying a specific method of janking. Here are three provided stock options:
 
 * `"scroll"` (default) - The classic flavor of jank "enjoyed" by web users all around the globe.
-* `"offset"` - I don't actually remember what this one does, and I'm not about to go find out.
+* `"offset"` - I don't actually remember what this one does. Sorry.
 * `"hardcore"` - This option is for _hardcore_ jank junkies only. Be warned, this will jank each element separately.
+
+Exmaple useage:
 
     jankyscroll(400, 250, "hardcore");
 
@@ -48,10 +50,12 @@ If you wish, you can supply a custom jank function. Your function should take an
     jankyscroll(320, 160, function(jank_amount) {
         window.scrollBy(jank_amount, 0); // x, y
     });
+    
+Sick.
 
 ## [<span class="octicon octicon-link"></span>](#support-or-contact)Support or Contact
 
-Having trouble with **jankyscroll**? Sorry, I don't really know what to do about that. It's sort of trouble to begin with, no? I'm sure you'll figure it out.
+Having trouble with **jankyscroll**? Sorry, I don't really know what to do about that. It's trouble to begin with, no? I'm sure you'll figure it out.
 
 If you'd like to contact me about **jankyscroll**: please, don't.
 
@@ -61,7 +65,7 @@ Nevermind, it totally does work on mobile. Please don't bamboozle me like this.
 
 ## [<span class="octicon octicon-link"></span>](#acknowledgements)Acknowledgements
 
-I snatched the starting point for this venture from The Onion's most excellent [fartscroll.js](http://theonion.github.io/fartscroll.js/), which I whole-heartedly [encourage](http://zweig.co/jankyscroll/example.html) you use alongside **jankyscroll**.
+I snatched the starting point for this venture from The Onion's [fartscroll.js](http://theonion.github.io/fartscroll.js/), which I whole-heartedly [encourage](http://zweig.co/jankyscroll/example.html) you use alongside **jankyscroll**.
 
 I'd like to publically shame James Adam Buckland for encouraging this.
 
